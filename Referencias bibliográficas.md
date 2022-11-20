@@ -1,4 +1,4 @@
-#biblio
+# Referencias bibliográficas
 1. Schaller, R. <<Moore’s Law: Past, Present, and Future.>> IEEE Spectrum, June, 1997
 
 2. William Stallings, 5ª Edición <<Organización y Arquitectura de Computadores. Punto: 12.4>>
