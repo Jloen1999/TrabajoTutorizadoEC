@@ -1,4 +1,4 @@
-![[logo.png]]
+![logo](logo.png)
 
 ![Nombre:](https://img.shields.io/badge/Nombre:-Jose%20Luis%20Obiang%20Ela%20Nanguan-orange) <br>
 ![Profesor](https://img.shields.io/badge/Profesor:-Javier%20Plaza%20Miguel-orange) <br>
